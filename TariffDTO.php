@@ -7,7 +7,7 @@ namespace main;
  * @property float $price
  * @property int $validity
  * @property int $speed
- * @property string $type
+ * @property TariffTypes $type
  */
 class TariffDTO
 {
